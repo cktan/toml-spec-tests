@@ -1,0 +1,6 @@
+{
+  "bare_key": {
+    "type": "string",
+    "value": "value"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "quoted \"value\"": {
+    "type": "string",
+    "value": "value"
+  }
+}

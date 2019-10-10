@@ -1,0 +1,6 @@
+{
+  "regex": {
+    "type": "string",
+    "value": "<\\i\\c*\\s*>"
+  }
+}

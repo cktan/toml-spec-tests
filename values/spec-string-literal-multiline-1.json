@@ -1,0 +1,6 @@
+{
+  "regex2": {
+    "type": "string",
+    "value": "I [dw]on't need \\d{2} apples"
+  }
+}

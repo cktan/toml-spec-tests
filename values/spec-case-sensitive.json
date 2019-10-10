@@ -1,0 +1,10 @@
+{
+  "ABC": {
+    "type": "integer",
+    "value": "456"
+  },
+  "abc": {
+    "type": "integer",
+    "value": "123"
+  }
+}

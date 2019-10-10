@@ -1,0 +1,23 @@
+{
+  "arr4": {
+    "type": "array",
+    "value": [
+      {
+        "type": "string",
+        "value": "all"
+      },
+      {
+        "type": "string",
+        "value": "strings"
+      },
+      {
+        "type": "string",
+        "value": "are the same"
+      },
+      {
+        "type": "string",
+        "value": "type"
+      }
+    ]
+  }
+}

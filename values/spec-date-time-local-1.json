@@ -1,6 +1,6 @@
 {
   "ldt1": {
-    "type": "datetime-local",
-    "value": "1979-05-27T07:32:00.000"
+    "type": "datetime",
+    "value": "1979-05-27T07:32:00"
   }
 }
